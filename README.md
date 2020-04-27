@@ -5,16 +5,17 @@ Developed with Anaconda Spyder 3.3.6
 To be run with Python 3.7+
 
 Utilizes the following libraries that need to be installed for the program to run:
+
 Plotly
-> pip install plotly
+>> pip install plotly
 
 Pandas
-> pip install pandas
+>> pip install pandas
 
 Matplotlib
-> pip install matplotlib
+>> pip install matplotlib
 
 PIL
-> pip install Pillow
+>> pip install Pillow
 
 
