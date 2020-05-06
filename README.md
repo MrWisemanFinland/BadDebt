@@ -18,4 +18,11 @@ Matplotlib
 PIL
 >\> pip install Pillow
 
+Classes:
+Baddebt.py - main class for data analysis
+Calendar.py - A class for calendar / date selection object
+InvoiceData.py - Object for storing invoice data
+CompanyData.py - Object for storing company data
 
+To run:
+python baddebt.py
